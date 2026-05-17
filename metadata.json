@@ -1,0 +1,8 @@
+{
+  "name": "KJ Mapalad Profile",
+  "description": "A hyperbolic, GitHub-inspired social media profile for Kenneth Jay Mapalad featuring undecillion followers and a massive achievement collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
